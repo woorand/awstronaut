@@ -17,20 +17,6 @@
     "avatar": "/avatars/alicejohnson.png"
   },
   {
-    "name": "Ravi Kumar",
-    "github": "ravikumar",
-    "certs": [
-      "CKA"
-    ],
-    "provider": "KodeKloud",
-    "city": "Bangalore",
-    "country": "India",
-    "date": "2025-01-15",
-    "bio": "Site reliability engineer, loves automating things.",
-    "linkedin": "ravikumar",
-    "website": "https://ravikumar.io"
-  },
-  {
     "name": "Yuki Tanaka",
     "github": "yukitanaka",
     "certs": [
