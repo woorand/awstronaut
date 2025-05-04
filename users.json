@@ -4,7 +4,7 @@
     "github": "yongkanghe",
     "certs": [
       "awstronaut",
-      "kubestronaut",
+      "kubestronaut"
     ],
     "provider": "K8SUG",
     "city": "Melbourne",
