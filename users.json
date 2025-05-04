@@ -3,7 +3,8 @@
     "name": "Yongkang He",
     "github": "yongkanghe",
     "certs": [
-      "awstronaut"
+      "awstronaut",
+      "kubestronaut",
     ],
     "provider": "K8SUG",
     "city": "Melbourne",
