@@ -6,7 +6,6 @@
       "awstronaut",
       "kubestronaut"
     ],
-    "provider": "K8SUG",
     "city": "Melbourne",
     "country": "Australia",
     "date": "2024-07-01",
@@ -19,7 +18,6 @@
   {
     "name": "Dennis John",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Caberra",
     "country": "Australia",
     "date": "2025-05-05",
@@ -29,7 +27,6 @@
   {
     "name": "Leonid Kopylov",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Ashkelon",
     "country": "Israel",
     "date": "2025-05-05",
@@ -39,7 +36,6 @@
   {
     "name": "Bangaly KABA, PhD",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Paris",
     "country": "France",
     "date": "2025-05-05",
@@ -49,7 +45,6 @@
   {
     "name": "Sammy Cheung",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Austin",
     "country": "USA",
     "date": "2025-05-05",
@@ -59,7 +54,6 @@
   {
     "name": "Stanislav Kolenkin",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Warsaw",
     "country": "Poland",
     "date": "2025-05-05",
@@ -69,7 +63,6 @@
   {
     "name": "Bolivar David Llerena Fuenmayor",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Quito",
     "country": "Ecuador",
     "date": "2025-05-05",
@@ -79,7 +72,6 @@
   {
     "name": "Shinji AIBARA",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Fujisawa",
     "country": "Japan",
     "date": "2025-05-05",
@@ -89,7 +81,6 @@
   {
     "name": "Junichi Miyagawa",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Tokyo",
     "country": "Japan",
     "date": "2025-05-05",
@@ -99,7 +90,6 @@
   {
     "name": "Geoff Loh",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Auckland",
     "country": "New Zealand",
     "date": "2025-05-05",
@@ -109,7 +99,6 @@
   {
     "name": "Jason Khoi",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Melbourne",
     "country": "Australia",
     "date": "2025-05-05",
@@ -119,7 +108,6 @@
   {
     "name": "Ihor Matsapura",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Kyiv",
     "country": "Ukraine",
     "date": "2025-05-05",
@@ -129,7 +117,6 @@
   {
     "name": "V-ris Jaijongrak",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Bangkok",
     "country": "Thailand",
     "date": "2025-05-05",
@@ -139,7 +126,6 @@
   {
     "name": "Eric Schüler",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Nuremberg",
     "country": "Germany",
     "date": "2025-05-05",
@@ -149,7 +135,6 @@
   {
     "name": "Yuriy Bezsonov",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Paderborn",
     "country": "Germany",
     "date": "2025-05-05",
@@ -159,7 +144,6 @@
   {
     "name": "Dinesh Singh Bisht",
     "certs": ["awstronaut", "kubestronaut"],
-    "provider": "K8SUG",
     "city": "Helsinki",
     "country": "Finland",
     "date": "2025-05-05",
