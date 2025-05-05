@@ -17,7 +17,6 @@ Please submit a JSON entry in `users.json` with the following structure, and upl
       "awstronaut",
       "kubestronaut"
     ],
-    "provider": "K8SUG",
     "city": "Melbourne",
     "country": "Australia",
     "date": "2024-07-01",
