@@ -24,7 +24,7 @@ Please submit a JSON entry in `users.json` with the following structure, and upl
     "bio": "Founder @K8SUG | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
     "twitter": "yongkanghe",
     "linkedin": "yongkanghe",
-    "website": "https://kubekon.com",
+    "website": "https://k8sug.ai",
     "avatar": "/avatars/yongkanghe.png"
   }
 ```
