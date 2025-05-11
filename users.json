@@ -149,5 +149,17 @@
     "date": "2025-05-05",
     "linkedin": "dineshsinghbisht",
     "avatar": "/avatars/dineshsinghbisht.png"
+  },
+  {
+    "name": "Piotr Pabis",
+    "certs": ["awstronaut"],
+    "city": "Berlin",
+    "country": "Germany",
+    "date": "2025-05-11",
+    "linkedin": "piotr-pabis",
+    "avatar": "/avatars/piotrpabis.png",
+    "website": "https://pabis.eu",
+    "github": "ppabis",
+    "bio": "15x AWS Certified and Community Builder :: Follow me on LinkedIn to know more 😄"
   }
 ]
