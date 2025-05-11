@@ -36,3 +36,46 @@ Your PR should include:
   "website": "https://k8sug.ai",
   "avatar": "/avatars/yongkanghe.png"
 }
+
+📌 Field Descriptions
+Field	Required	Description
+name	✅	Full name or display name
+github	✅	GitHub username (used for fallback avatar)
+certs	✅	Certification codes (e.g., CKA, CKAD, awstronaut)
+provider	✅	Certification provider (e.g., K8SUG, CNCF)
+city	✅	City of residence
+country	✅	Country (must match naming in the map)
+date	✅	Certification date (YYYY-MM-DD)
+bio	❌	Short description or personal motto
+twitter	❌	Twitter handle (omit @)
+linkedin	❌	LinkedIn username (not full URL)
+website	❌	Personal or portfolio website
+avatar	❌	Path to avatar image in /avatars/ folder
+
+🖼️ Avatar Upload Guidelines
+Place your avatar in the avatars/ folder (e.g., avatars/yourgithubusername.png)
+
+File size must not exceed 500 KB
+
+Recommended dimensions: 200×200 px (square images render best)
+
+Allowed formats: .png or .jpg
+
+If no avatar is uploaded, your GitHub profile picture will be used by default.
+
+💡 Pull Request Tips
+✅ Add your profile to the end of users.json
+
+✅ Ensure your JSON is valid (use a JSON validator)
+
+✅ Use a clear commit message, e.g.:
+
+vbnet
+复制
+add: alicejohnson to certified list
+🆘 New to GitHub or PRs?
+Check out this official guide:
+👉 GitHub Pull Request Guide
+
+🙌 Thanks for contributing to the global awstronaut community!
+Together we showcase the power of cloud certification and collaboration 💪☁️🌍
