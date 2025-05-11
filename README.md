@@ -34,7 +34,6 @@ Please add your profile using the following format in `users.json`:
   "name": "Yongkang He",
   "github": "yongkanghe",
   "certs": "awstronaut",
-  "provider": "K8SUG",
   "city": "Melbourne",
   "country": "Australia",
   "date": "2024-07-01",
@@ -55,7 +54,6 @@ Please add your profile using the following format in `users.json`:
 | `name`     | ✅       | Full name or display name |
 | `github`   | ✅       | GitHub username (used for fallback avatar) |
 | `certs`    | ✅       | Certification codes (e.g., `CKA`, `CKAD`, `awstronaut`) |
-| `provider` | ✅       | Certification provider (e.g., `K8SUG`, `CNCF`) |
 | `city`     | ✅       | City of residence |
 | `country`  | ✅       | Country (must match naming in the map) |
 | `date`     | ✅       | Certification date (`YYYY-MM-DD`) |
