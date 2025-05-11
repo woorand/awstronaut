@@ -1,10 +1,11 @@
 # 📘 awstronaut club Members Submission Guide
 
-Welcome to the awstronaut club!  
-This project highlights **K8SUG-certified awstronaut** community members from around the world.  
+## Welcome to the awstronaut club!  
+
+This project highlights **K8SUG certified awstronaut** community members from around the world.  
 To submit your profile:
 
-1. You **must be fully AWS-certified**  
+1. You **must be fully certified on AWS**  
 2. You must have **officially claimed your awstronaut title**  
 3. Then, follow the steps below to get listed!
 
@@ -20,7 +21,7 @@ To submit your profile:
 Your Pull Request should include:
 
 - ✅ One new JSON entry at the bottom of `users.json`  
-- 🖼️ One avatar image (optional) uploaded to the `avatars/` folder  
+- 🖼️ One avatar image uploaded to the `avatars/` folder  
 
 ---
 
@@ -32,10 +33,7 @@ Please add your profile using the following format in `users.json`:
 {
   "name": "Yongkang He",
   "github": "yongkanghe",
-  "certs": [
-    "awstronaut",
-    "kubestronaut"
-  ],
+  "certs": "awstronaut",
   "provider": "K8SUG",
   "city": "Melbourne",
   "country": "Australia",
