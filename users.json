@@ -193,5 +193,16 @@
     "linkedin": "venkata-pavan-vishnu-rachapudi-28956920b",
     "website": "https://technodiaryvishnu.hashnode.dev/",
     "avatar": "/avatars/Vishnu.png"
+  },
+  {
+    "name": "Gustavo Alejandro Romero Sanchez",
+    "certs": ["awstronaut"],
+    "city": "La Paz",
+    "country": "Bolivia",
+    "date": "2025-05-12",
+    "linkedin": "gustavo-alejandro-romero",
+    "avatar": "/avatars/GustavoRomero.png",
+    "github": "gustavo-romero",
+    "bio": "AWS Community Builder | DevOps/Cloud Architect | 12x AWS | 5x Microsoft Azure | 2x GCP :: Let's connect on LinkedIn!"
   }
 ]
