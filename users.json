@@ -161,5 +161,15 @@
     "website": "https://pabis.eu",
     "github": "ppabis",
     "bio": "15x AWS Certified and Community Builder :: Follow me on LinkedIn to know more 😄"
+  },
+  {
+    "name": "Sebastian Spal",
+    "certs": ["awstronaut"],
+    "city": "Wellington",
+    "country": "Florida",
+    "date": "2025-05-11",
+    "linkedin": "SebastianSpal",
+  "avatar": "/avatars/sebas",
+    "website": "https://blog.seabasslab2021.com"
   }
 ]
