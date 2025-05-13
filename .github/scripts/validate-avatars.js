@@ -2,7 +2,7 @@ const fs = require("fs")
 const path = require("path")
 const sharp = require("sharp")
 
-const avatarDir = path.resolve(__dirname, "../avatars")
+const avatarDir = path.resolve(__dirname, "../../avatars")
 const avatarFiles = fs.readdirSync(avatarDir).filter(f => /\.(png|jpe?g)$/i.test(f))
 
 let hasError = false
