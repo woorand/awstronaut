@@ -185,7 +185,7 @@
   {
     "name": "Vishnu Rachapudi",
     "github": "aquavis12",
-    "certs": "awstronaut",
+    "certs": ["awstronaut"],
     "city": "Hyderabad",
     "country": "India",
     "date": "2025-03-05",
