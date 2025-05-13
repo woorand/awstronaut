@@ -33,7 +33,7 @@ Please add your profile using the following format in `users.json`:
 {
   "name": "Yongkang He",
   "github": "yongkanghe",
-  "certs": "awstronaut",
+  "certs": ["awstronaut"],
   "city": "Melbourne",
   "country": "Australia",
   "date": "2024-07-01",
