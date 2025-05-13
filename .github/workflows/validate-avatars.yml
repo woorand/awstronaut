@@ -20,4 +20,4 @@ jobs:
         run: npm install sharp
 
       - name: Run avatar validation
-        run: node scripts/validate-avatars.js
+        run: node .github/scripts/validate-avatars.js
