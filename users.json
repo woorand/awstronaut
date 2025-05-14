@@ -313,5 +313,17 @@
     "linkedin": "bojansovilj",
     "website": "",
     "avatar": "/avatars/bojansovilj.jpg"
+  },
+    {
+    "name": "Daniel Gaina",
+    "github": "tz0py",
+    "certs": ["awstronaut"],
+    "city": "Cambridge",
+    "country": "United Kingdom",
+    "date": "2024-08-01",
+    "bio": "12 X AWS Certified | AWS Golden Jacket | Senior Cloud Engineer | AWS Community Builder",
+    "linkedin": "danielgaina",
+    "website": "",
+    "avatar": "/avatars/danielgaina.jpg"
   }
 ]
