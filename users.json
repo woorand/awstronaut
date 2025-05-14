@@ -274,5 +274,34 @@
     "linkedin": "bojansovilj",
     "website": "",
     "avatar": "/avatars/bojansovilj.png"
+  },
+  {
+    "name": "Cristian Cortez",
+    "github": "cortezcristian",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Dublin",
+    "country": "Ireland",
+    "date": "2025-01-18",
+    "bio": "12x AWS | 4x K8S | 1x GCP | 1x Azure | IBMer | ex AWS | SME",
+    "twitter": "cortezcristian",
+    "linkedin": "cortezcristian",
+    "website": "https://cortezcristian.com/",
+    "avatar": "/avatars/cortezcristian.png"
+  },
+  {
+    "name": "Prabhakaran Ravichandran",
+    "github": "pbkn",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Chennai",
+    "country": "India",
+    "date": "2025-01-08",
+    "bio": "Senior Application Engineer @ Amazon | 12x AWS Certified (AWStronaut) | Official AWS SME & Community Builder | Driving Innovation & Mentoring Talent",
+    "linkedin": "pbkn",
+    "website": "https://whysurfswim.com/",
+    "avatar": "/avatars/Prabhakaran_Ravichandran.jpg"
   }
 ]
