@@ -263,9 +263,7 @@
   {
     "name": "Bojan Sovilj",
     "github": "bojansovilj",
-    "certs": [
-      "awstronaut"
-    ],
+    "certs": ["awstronaut"],
     "city": "Belgrade",
     "country": "Serbia",
     "date": "2024-07-01",
@@ -274,6 +272,18 @@
     "linkedin": "bojansovilj",
     "website": "",
     "avatar": "/avatars/bojansovilj.png"
+  },
+  {
+    "name": "Vineethkumar Marpadge",
+    "github": "vmarpadge",
+    "certs": ["awstronaut"],
+    "city": "Hyderabad",
+    "country": "India",
+    "date": "2025-03-21",
+    "bio": "Cloud Support Engineer 2 at AWS | CodeSuite & Elastic Beanstalk SME🏅| 12 x AWS Certified🧥",
+    "twitter": "vmarpadge",
+    "linkedin": "vmarpadge",
+    "avatar": "/avatars/vineethkumarmarpadge.png"
   },
   {
     "name": "Cristian Cortez",
