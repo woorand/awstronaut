@@ -325,5 +325,18 @@
     "linkedin": "danielgaina",
     "website": "",
     "avatar": "/avatars/DanielGaina.jpg"
+  },
+  {
+    "name": "Thilina Munasinghe",
+    "github": "thilinamgit",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Singapore",
+    "country": "Singapore",
+    "date": "2025-01-18",
+    "bio": "Lead CloudOps Engineer | 🧑‍🚀 AWStronaut (13x AWS) | AWS Golden Jacket holder 🧥 | SME",
+    "linkedin": "thilina-munasinghe",
+    "avatar": "/avatars/thilinamunasinghe.png"
   }
 ]
