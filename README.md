@@ -2,7 +2,8 @@
 
 ## Welcome to the awstronaut club!  
 
-This project highlights **K8SUG certified awstronaut** community members from around the world.  
+The awstronaut program celebrates community leaders who are passionate about learning and committed to helping others succeed. awstronauts have achieved all 12 active AWS certifications and actively support others on their cloud journey.   
+
 To submit your profile:
 
 1. You **must be fully certified on AWS**  
