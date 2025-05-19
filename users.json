@@ -338,5 +338,21 @@
     "bio": "Lead CloudOps Engineer | 🧑‍🚀 AWStronaut (13x AWS) | AWS Golden Jacket holder 🧥 | SME",
     "linkedin": "thilina-munasinghe",
     "avatar": "/avatars/thilinamunasinghe.png"
+  },
+  {
+    "name": "Allen R. Chan",
+    "github": "allenrchan",
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Sunnyvale",
+    "country": "USA",
+    "date": "2025-05-17",
+    "bio": "Head of DevOps and Engineering Management | Kubestronaut+AWStronaut | 3x Founder | 10x Azure | 5x PMI | 4x ISACA | 3x IAPP",
+    "linkedin": "allenchan",
+    "website": "https://aidr.dev",
+    "avatar": "/avatars/allen-r-chan.png"
   }
+
 ]
