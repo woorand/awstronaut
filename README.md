@@ -101,10 +101,10 @@ Together, we’re showcasing the impact of AWS certifications and the strength o
 
 ## 📢 Stay Connected with 100,000+ Cloud-Native Enthusiasts! 🎉
 
-Join over 100,000 passionate learners who:
-✅ Learn 𝐅𝐀𝐒𝐓𝐄𝐑 ⚡ 
-✅ Certify 𝐒𝐌𝐀𝐑𝐓𝐄𝐑 💰 
-✅ Grow 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 💪
+Join over **100,000** passionate learners who:
+- ✅ Learn 𝐅𝐀𝐒𝐓𝐄𝐑 ⚡ 
+- ✅ Certify 𝐒𝐌𝐀𝐑𝐓𝐄𝐑 💰 
+- ✅ Grow 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 💪
 
 📌 Subscribe now → 🔥 [K8SUG Linktree](https://linktr.ee/k8sug)
 📌 Bookmark this → ❤️ [K8SUG.AI](https://k8sug.ai/save)
