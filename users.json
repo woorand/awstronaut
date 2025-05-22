@@ -367,5 +367,19 @@
     "linkedin": "shaoyi-li-cloud",
     "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
     "avatar": "/avatars/shaoyi-li.png"
-  }
+  },
+  {
+    "name": "Jasbir Singh",
+    "github": "jasbir84",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "date": "2025-05-21",
+    "bio": "Staff Consulting Architect @ Rackspace Technology | 12x AWS Certified (AWStronaut) | 14x GCP Certified| 13x Azure Certified| Redefining Cloud Possibilities, Leading With Google Cloud",
+    "linkedin": "jasbir84",
+    "website": "https://www.linkedin.com/in/jasbir84/",
+    "avatar": "/avatars/Jasbir.jpg"
+  },
 ]
