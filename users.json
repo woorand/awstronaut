@@ -367,5 +367,18 @@
     "linkedin": "shaoyi-li-cloud",
     "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
     "avatar": "/avatars/shaoyi-li.png"
+  },
+  {
+    "name": "Nizar Ajroud",
+    "github": "nizarajroud",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Montreal",
+    "country": "Canada",
+    "date": "2025-05-16",
+    "linkedin": "nizarajroud",
+    "avatar": "/avatars/nizarajroud.jpg",
+    "bio": "12x AWS Certified :: Follow me on LinkedIn to know more 😄"
   }
 ]
