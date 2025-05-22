@@ -367,5 +367,19 @@
     "linkedin": "shaoyi-li-cloud",
     "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
     "avatar": "/avatars/shaoyi-li.png"
+  },
+  {
+    "name": "Colin Barker",
+    "github": "mystcb",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Billingshurst",
+    "country": "United Kingdom",
+    "date": "2025-01-25",
+    "bio": "Head of AWS | AWS Lead Certification SME | AWS Ambassador | AWS Community Builder | Chair of Tokonatsu",
+    "linkedin": "colinbarker",
+    "website": "https://colinbarker.me.uk",
+    "avatar": "/avatars/colinbarker.jpg"
   }
 ]
