@@ -16,6 +16,18 @@
     "avatar": "/avatars/yongkanghe.png"
   },
   {
+  "name": "Marko Sluga",
+  "github": "markosluga",
+  "certs": ["awstronaut"],
+  "city": "Toronto",
+  "country": "Canada",
+  "date": "2025-01-16",
+  "bio": "Learn cloud ☁️ and make it rain! 🤑",
+  "linkedin": "markosluga",
+  "website": "https://markocloud.com",
+  "avatar": "/avatars/marko-orange2.png"
+  },
+  {
     "name": "Dennis John",
     "certs": [
       "awstronaut",
@@ -381,5 +393,18 @@
     "linkedin": "colinbarker",
     "website": "https://colinbarker.me.uk",
     "avatar": "/avatars/colinbarker.jpg"
+  },
+  {
+    "name": "Nizar Ajroud",
+    "github": "nizarajroud",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Montreal",
+    "country": "Canada",
+    "date": "2025-05-16",
+    "linkedin": "nizarajroud",
+    "avatar": "/avatars/nizarajroud.jpg",
+    "bio": "12x AWS Certified :: Follow me on LinkedIn to know more 😄"
   }
 ]
