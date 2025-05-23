@@ -432,5 +432,17 @@
   "linkedin": "markosluga",
   "website": "https://markocloud.com",
   "avatar": "/avatars/marko-orange2.png"
+  },
+  {
+  "name": "Nishith Shah",
+  "github": "nishithshah1990-hash",
+  "certs": ["awstronaut"],
+  "city": "New York",
+  "country": "USA",
+  "date": "2025-01-13",
+  "bio": "DevOps/Delivery Lead Manager @ Accenture, ISC2 | 14x AWS | 2x Azure | 2x ServiceNow | 2x Salesforce AI | Databricks GenAI Certified | GCP Certified | Terraform Certified | 6x Databricks Accredited",
+  "linkedin": "nishithshah90",
+  "website": "",
+  "avatar": "/avatars/Nishith.jpg"
   }
 ]
