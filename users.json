@@ -344,7 +344,8 @@
     "github": "allenrchan",
     "certs": [
       "awstronaut",
-      "kubestronaut"
+      "kubestronaut",
+      "golden kubestronaut"
     ],
     "city": "Sunnyvale",
     "country": "USA",
