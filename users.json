@@ -344,7 +344,8 @@
     "github": "allenrchan",
     "certs": [
       "awstronaut",
-      "kubestronaut"
+      "kubestronaut",
+      "golden kubestronaut"
     ],
     "city": "Sunnyvale",
     "country": "USA",
@@ -367,6 +368,46 @@
     "linkedin": "shaoyi-li-cloud",
     "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
     "avatar": "/avatars/shaoyi-li.png"
+  },
+  {
+    "name": "Jasbir Singh",
+    "github": "jasbir84",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "date": "2025-05-21",
+    "bio": "Staff Consulting Architect @ Rackspace Technology | 12x AWS Certified (AWStronaut) | 14x GCP Certified| 13x Azure Certified| Redefining Cloud Possibilities, Leading With Google Cloud",
+    "linkedin": "jasbir84",
+    "website": "https://www.linkedin.com/in/jasbir84/",
+    "avatar": "/avatars/Jasbir.jpg"
+  },
+  {
+    "name": "Oguzhan Hiziroglu",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Istanbul",
+    "country": "Turkey",
+    "date": "2023-09-08",
+    "linkedin": "oguzhanselcukhiziroglu",
+    "avatar": "/avatars/oguzhanselcukhiziroglu.png",
+    "bio": "AWS Ambassador | Turkey's #1 AWS Golden Jacket (15 X AWS) | AWS AAI Community Difference Maker | Champion AWS Authorized Instructor (AAI) | AWS Community Builder"
+  },
+  {
+    "name": "Colin Barker",
+    "github": "mystcb",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Billingshurst",
+    "country": "United Kingdom",
+    "date": "2025-01-25",
+    "bio": "Head of AWS | AWS Lead Certification SME | AWS Ambassador | AWS Community Builder | Chair of Tokonatsu",
+    "linkedin": "colinbarker",
+    "website": "https://colinbarker.me.uk",
+    "avatar": "/avatars/colinbarker.jpg"
   },
   {
     "name": "Nizar Ajroud",
@@ -393,5 +434,40 @@
     "bio": "VP, Cloud and Data Solutions @ Parsons | AWS Ambassador | AWS Community Builder | AWStronaut (12x AWS) | 3x Azure | 3x GCP | 3X OCI | PMP | Chaos Engineer | Purple Unicorn",
     "linkedin": "jenn-bergstrom",
     "avatar": "/avatars/jenn-bergstrom.jpg"
+  },
+  {
+    "name": "Marko Sluga",
+    "github": "markosluga",
+    "certs": ["awstronaut"],
+    "city": "Toronto",
+    "country": "Canada",
+    "date": "2025-01-16",
+    "bio": "Learn cloud ☁️ and make it rain! 🤑",
+    "linkedin": "markosluga",
+    "website": "https://markocloud.com",
+    "avatar": "/avatars/marko-orange2.png"
+  },
+  {
+    "name": "José E. Vera",
+    "github": "jose-emilio",
+    "certs": ["awstronaut"],
+    "city": "Madrid",
+    "country": "Spain",
+    "date": "2025-04-16",
+    "bio": "Champion AWS Authorized Instructor | AWS Community Builder",
+    "linkedin": "joseemiliovera",
+    "avatar": "/avatars/JoseEmilioVera.png"
+  },
+  {
+    "name": "Nishith Shah",
+    "github": "nishithshah1990-hash",
+    "certs": ["awstronaut"],
+    "city": "New York",
+    "country": "USA",
+    "date": "2025-01-13",
+    "bio": "DevOps/Delivery Lead Manager @ Accenture, ISC2 | 14x AWS | 2x Azure | 2x ServiceNow | 2x Salesforce AI | Databricks GenAI Certified | GCP Certified | Terraform Certified | 6x Databricks Accredited",
+    "linkedin": "nishithshah90",
+    "website": "",
+    "avatar": "/avatars/Nishith.jpg"
   }
 ]
