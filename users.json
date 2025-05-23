@@ -381,5 +381,56 @@
     "linkedin": "jasbir84",
     "website": "https://www.linkedin.com/in/jasbir84/",
     "avatar": "/avatars/Jasbir.jpg"
+  },
+  {
+    "name": "Oguzhan Hiziroglu",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Istanbul",
+    "country": "Turkey",
+    "date": "2023-09-08",
+    "linkedin": "oguzhanselcukhiziroglu",
+    "avatar": "/avatars/oguzhanselcukhiziroglu.png",
+    "bio": "AWS Ambassador | Turkey's #1 AWS Golden Jacket (15 X AWS) | AWS AAI Community Difference Maker | Champion AWS Authorized Instructor (AAI) | AWS Community Builder"
+  },
+  {
+    "name": "Colin Barker",
+    "github": "mystcb",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Billingshurst",
+    "country": "United Kingdom",
+    "date": "2025-01-25",
+    "bio": "Head of AWS | AWS Lead Certification SME | AWS Ambassador | AWS Community Builder | Chair of Tokonatsu",
+    "linkedin": "colinbarker",
+    "website": "https://colinbarker.me.uk",
+    "avatar": "/avatars/colinbarker.jpg"
+  },
+  {
+    "name": "Nizar Ajroud",
+    "github": "nizarajroud",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Montreal",
+    "country": "Canada",
+    "date": "2025-05-16",
+    "linkedin": "nizarajroud",
+    "avatar": "/avatars/nizarajroud.jpg",
+    "bio": "12x AWS Certified :: Follow me on LinkedIn to know more 😄"
+  },
+  {
+  "name": "Marko Sluga",
+  "github": "markosluga",
+  "certs": ["awstronaut"],
+  "city": "Toronto",
+  "country": "Canada",
+  "date": "2025-01-16",
+  "bio": "Learn cloud ☁️ and make it rain! 🤑",
+  "linkedin": "markosluga",
+  "website": "https://markocloud.com",
+  "avatar": "/avatars/marko-orange2.png"
   }
 ]
