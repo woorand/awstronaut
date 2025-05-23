@@ -70,7 +70,8 @@ Please add your profile using the following format in `users.json`:
 
 - Place your avatar in the `avatars/` folder (e.g., `avatars/yourgithubusername.png`)  
 - **Max size:** 500 KB  
-- **Recommended dimensions:** 200×200 px (square images render best)  
+- **Recommended dimensions:** 200×200 px (square images render best)
+- **The image MUST be square. It will fail automated testing if it is not** 
 - **Allowed formats:** `.png`, `.jpg`  
 
 > If no avatar is uploaded, your GitHub profile picture will be used by default.
