@@ -423,27 +423,38 @@
     "bio": "12x AWS Certified :: Follow me on LinkedIn to know more 😄"
   },
   {
-  "name": "Marko Sluga",
-  "github": "markosluga",
-  "certs": ["awstronaut"],
-  "city": "Toronto",
-  "country": "Canada",
-  "date": "2025-01-16",
-  "bio": "Learn cloud ☁️ and make it rain! 🤑",
-  "linkedin": "markosluga",
-  "website": "https://markocloud.com",
-  "avatar": "/avatars/marko-orange2.png"
+    "name": "Marko Sluga",
+    "github": "markosluga",
+    "certs": ["awstronaut"],
+    "city": "Toronto",
+    "country": "Canada",
+    "date": "2025-01-16",
+    "bio": "Learn cloud ☁️ and make it rain! 🤑",
+    "linkedin": "markosluga",
+    "website": "https://markocloud.com",
+    "avatar": "/avatars/marko-orange2.png"
   },
   {
-  "name": "Nishith Shah",
-  "github": "nishithshah1990-hash",
-  "certs": ["awstronaut"],
-  "city": "New York",
-  "country": "USA",
-  "date": "2025-01-13",
-  "bio": "DevOps/Delivery Lead Manager @ Accenture, ISC2 | 14x AWS | 2x Azure | 2x ServiceNow | 2x Salesforce AI | Databricks GenAI Certified | GCP Certified | Terraform Certified | 6x Databricks Accredited",
-  "linkedin": "nishithshah90",
-  "website": "",
-  "avatar": "/avatars/Nishith.jpg"
+    "name": "José E. Vera",
+    "github": "jose-emilio",
+    "certs": ["awstronaut"],
+    "city": "Madrid",
+    "country": "Spain",
+    "date": "2025-04-16",
+    "bio": "Champion AWS Authorized Instructor | AWS Community Builder",
+    "linkedin": "joseemiliovera",
+    "avatar": "/avatars/JoseEmilioVera.png"
+  },
+  {
+    "name": "Nishith Shah",
+    "github": "nishithshah1990-hash",
+    "certs": ["awstronaut"],
+    "city": "New York",
+    "country": "USA",
+    "date": "2025-01-13",
+    "bio": "DevOps/Delivery Lead Manager @ Accenture, ISC2 | 14x AWS | 2x Azure | 2x ServiceNow | 2x Salesforce AI | Databricks GenAI Certified | GCP Certified | Terraform Certified | 6x Databricks Accredited",
+    "linkedin": "nishithshah90",
+    "website": "",
+    "avatar": "/avatars/Nishith.jpg"
   }
 ]
