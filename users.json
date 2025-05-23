@@ -406,5 +406,16 @@
   "linkedin": "markosluga",
   "website": "https://markocloud.com",
   "avatar": "/avatars/marko-orange2.png"
+  },
+    {
+  "name": "José E. Vera",
+  "github": "jose-emilio",
+  "certs": ["awstronaut"],
+  "city": "Madrid",
+  "country": "Spain",
+  "date": "2025-04-16",
+  "bio": "Champion AWS Authorized Instructor | AWS Community Builder",
+  "linkedin": "joseemiliovera",
+  "avatar": "/avatars/JoseEmilioVera.png"
   }
 ]
