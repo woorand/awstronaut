@@ -469,5 +469,18 @@
     "linkedin": "nishithshah90",
     "website": "",
     "avatar": "/avatars/Nishith.jpg"
-  }
+  },
+  {
+  "name": "John Hite",
+  "github": "john916",
+  "certs": ["awstronaut"],
+  "city": "Folsom",
+  "country": "USA",
+  "date": "2025-05-09",
+  "bio": "AWS Golden Jacket",
+  "twitter": "",
+  "linkedin": "john-hite-mscsia-cissp-pmp-ceh-enp-026239208/",
+  "website": "",
+  "avatar": "/avatars/JohnHite.jpg"
+}
 ]
