@@ -496,5 +496,18 @@
   "linkedin": "jaswinderbhui",
   "website": "",
   "avatar": "/avatars/JaswinderPic2025.jpg"
+},
+{
+  "name": "Jin Ming Cheong",
+  "github": "jmcheong85",
+  "certs": ["awstronaut"],
+  "city": "Kuala Lumpur",
+  "country": "Malaysia",
+  "date": "2025-05-26",
+  "bio": "AWS Golden Jacket",
+  "twitter": "",
+  "linkedin": "cheong-jin-ming/",
+  "website": "",
+  "avatar": "/avatars/jin.jpg"
 }
 ]
