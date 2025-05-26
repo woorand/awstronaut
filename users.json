@@ -149,5 +149,15 @@
     "date": "2025-05-05",
     "linkedin": "dineshsinghbisht",
     "avatar": "/avatars/dineshsinghbisht.png"
+  },
+  {
+    "name": "Ravi Nandru",
+    "certs": ["awstronaut"],
+    "city": "Boston",
+    "country": "USA",
+    "date": "2025-05-05",
+    "linkedin": "ravinandru",
+    "avatar": "/avatars/Ravi.jpg"
   }
+    
 ]
