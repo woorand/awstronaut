@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "Yongkang He",
     "github": "yongkanghe",
     "certs": [
@@ -12,12 +12,15 @@
     "bio": "Founder @K8SUG | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
     "twitter": "yongkanghe",
     "linkedin": "yongkanghe",
-    "website": "https://kubekon.com",
+    "website": "https://k8sug.ai",
     "avatar": "/avatars/yongkanghe.png"
   },
   {
     "name": "Dennis John",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Caberra",
     "country": "Australia",
     "date": "2025-05-05",
@@ -26,7 +29,10 @@
   },
   {
     "name": "Leonid Kopylov",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Ashkelon",
     "country": "Israel",
     "date": "2025-05-05",
@@ -35,7 +41,10 @@
   },
   {
     "name": "Bangaly KABA, PhD",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Paris",
     "country": "France",
     "date": "2025-05-05",
@@ -43,8 +52,11 @@
     "avatar": "/avatars/bangalykaba.png"
   },
   {
-    "name": "Sammy Cheung",
-    "certs": ["awstronaut", "kubestronaut"],
+    "name": "Sammy Cheung ",
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Austin",
     "country": "USA",
     "date": "2025-05-05",
@@ -53,7 +65,10 @@
   },
   {
     "name": "Stanislav Kolenkin",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Warsaw",
     "country": "Poland",
     "date": "2025-05-05",
@@ -62,7 +77,10 @@
   },
   {
     "name": "Bolivar David Llerena Fuenmayor",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Quito",
     "country": "Ecuador",
     "date": "2025-05-05",
@@ -71,7 +89,10 @@
   },
   {
     "name": "Shinji AIBARA",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Fujisawa",
     "country": "Japan",
     "date": "2025-05-05",
@@ -80,7 +101,10 @@
   },
   {
     "name": "Junichi Miyagawa",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Tokyo",
     "country": "Japan",
     "date": "2025-05-05",
@@ -89,7 +113,10 @@
   },
   {
     "name": "Geoff Loh",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Auckland",
     "country": "New Zealand",
     "date": "2025-05-05",
@@ -98,7 +125,10 @@
   },
   {
     "name": "Jason Khoi",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Melbourne",
     "country": "Australia",
     "date": "2025-05-05",
@@ -107,7 +137,10 @@
   },
   {
     "name": "Ihor Matsapura",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Kyiv",
     "country": "Ukraine",
     "date": "2025-05-05",
@@ -116,7 +149,10 @@
   },
   {
     "name": "V-ris Jaijongrak",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Bangkok",
     "country": "Thailand",
     "date": "2025-05-05",
@@ -125,7 +161,10 @@
   },
   {
     "name": "Eric Schüler",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Nuremberg",
     "country": "Germany",
     "date": "2025-05-05",
@@ -134,7 +173,10 @@
   },
   {
     "name": "Yuriy Bezsonov",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Paderborn",
     "country": "Germany",
     "date": "2025-05-05",
@@ -143,12 +185,329 @@
   },
   {
     "name": "Dinesh Singh Bisht",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Helsinki",
     "country": "Finland",
     "date": "2025-05-05",
     "linkedin": "dineshsinghbisht",
     "avatar": "/avatars/dineshsinghbisht.png"
+  },
+  {
+    "name": "Piotr Pabis",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Berlin",
+    "country": "Germany",
+    "date": "2025-02-17",
+    "linkedin": "piotr-pabis",
+    "avatar": "/avatars/piotrpabis.png",
+    "website": "https://pabis.eu",
+    "github": "ppabis",
+    "bio": "15x AWS Certified and Community Builder :: Follow me on LinkedIn to know more 😄"
+  },
+  {
+    "name": "Sebastian Spal",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Wellington",
+    "country": "USA",
+    "date": "2025-05-11",
+    "linkedin": "sebastian-spal-b1677162",
+    "avatar": "/avatars/SebastianSpal.png",
+    "website": "https://blog.seabasslab2021.com"
+  },
+  {
+    "name": "Kiyomasa Miyamoto",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Tokyo",
+    "country": "Japan",
+    "date": "2025-05-11",
+    "linkedin": "duelist2020jp-a03b55227",
+    "avatar": "/avatars/kiyomasamiyamoto.jpg",
+    "bio": "15x AWS Certified and Community Builder :: Follow me on LinkedIn to know more 😄"
+  },
+  {
+    "name": "Vishnu Rachapudi",
+    "github": "aquavis12",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Hyderabad",
+    "country": "India",
+    "date": "2025-03-05",
+    "bio": "🔐 AWS Community Builder – Security | 🧑‍🚀AWStronaut (12x AWS) | AWS Golden Jacket holder 🧥 |Works on AWS Cloud and DevOps | Passionate about Gen AI & Cloud Security | Blogger at Techno Diary",
+    "linkedin": "venkata-pavan-vishnu-rachapudi-28956920b",
+    "website": "https://technodiaryvishnu.hashnode.dev/",
+    "avatar": "/avatars/Rachapudi.png"
+  },
+  {
+    "name": "Gustavo Alejandro Romero Sanchez ",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "La Paz",
+    "country": "Bolivia",
+    "date": "2025-05-12",
+    "linkedin": "gustavo-alejandro-romero",
+    "avatar": "/avatars/GustavoRomero.png",
+    "github": "gustavo-romero",
+    "bio": "AWS Community Builder | DevOps/Cloud Architect | 12x AWS | 5x Microsoft Azure | 2x GCP :: Let's connect on LinkedIn!"
+  },
+  {
+    "name": "Prabhakaran Ravichandran",
+    "github": "pbkn",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Chennai",
+    "country": "India",
+    "date": "2025-01-08",
+    "bio": "Senior Application Engineer @ Amazon | 12x AWS Certified (AWStronaut) | Official AWS SME & Community Builder | Driving Innovation & Mentoring Talent",
+    "linkedin": "pbkn",
+    "website": "https://whysurfswim.com/",
+    "avatar": "/avatars/Prabhakaran_Ravichandran.jpg"
+  },
+  {
+    "name": "Cristian Cortez",
+    "github": "cortezcristian",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Dublin",
+    "country": "Ireland",
+    "date": "2025-01-18",
+    "bio": "12x AWS | 4x K8S | 1x GCP | 1x Azure | IBMer | ex AWS | SME",
+    "twitter": "cortezcristian",
+    "linkedin": "cortezcristian",
+    "website": "https://cortezcristian.com/",
+    "avatar": "/avatars/cortezcristian.png"
+  },
+  {
+    "name": "Vineethkumar Marpadge",
+    "github": "vmarpadge",
+    "certs": ["awstronaut"],
+    "city": "Hyderabad",
+    "country": "India",
+    "date": "2025-03-21",
+    "bio": "Cloud Support Engineer 2 at AWS | CodeSuite & Elastic Beanstalk SME🏅| 12 x AWS Certified🧥",
+    "twitter": "vmarpadge",
+    "linkedin": "vmarpadge",
+    "avatar": "/avatars/vineethkumarmarpadge.png"
+  },
+  {
+    "name": "Bojan Sovilj",
+    "github": "bojansovilj",
+    "certs": ["awstronaut"],
+    "city": "Belgrade",
+    "country": "Serbia",
+    "date": "2024-10-25",
+    "bio": "CEO Cloudwalker",
+    "twitter": "extraequal",
+    "linkedin": "bojansovilj",
+    "website": "",
+    "avatar": "/avatars/bojansovilj.jpg"
+  },
+    {
+    "name": "Daniel Gaina",
+    "github": "tz0py",
+    "certs": ["awstronaut"],
+    "city": "Cambridge",
+    "country": "United Kingdom",
+    "date": "2024-08-01",
+    "bio": "12 X AWS Certified | AWS Golden Jacket | Senior Cloud Engineer | AWS Community Builder",
+    "linkedin": "danielgaina",
+    "website": "",
+    "avatar": "/avatars/DanielGaina.jpg"
+  },
+  {
+    "name": "Thilina Munasinghe",
+    "github": "thilinamgit",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Singapore",
+    "country": "Singapore",
+    "date": "2025-01-18",
+    "bio": "Lead CloudOps Engineer | 🧑‍🚀 AWStronaut (13x AWS) | AWS Golden Jacket holder 🧥 | SME",
+    "linkedin": "thilina-munasinghe",
+    "avatar": "/avatars/thilinamunasinghe.png"
+  },
+  {
+    "name": "Allen R. Chan",
+    "github": "allenrchan",
+    "certs": [
+      "awstronaut",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Sunnyvale",
+    "country": "USA",
+    "date": "2025-05-17",
+    "bio": "Head of DevOps and Engineering Management | Kubestronaut+AWStronaut | 3x Founder | 10x Azure | 5x PMI | 4x ISACA | 3x IAPP",
+    "linkedin": "allenchan",
+    "website": "https://aidr.dev",
+    "avatar": "/avatars/allen-r-chan.png"
+  },
+  {
+    "name": "Shaoyi Li",
+    "github": "szl0144",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Jacksonville",
+    "country": "USA",
+    "date": "2025-05-19",
+    "bio": "Lead Cloud Engineer | AWS Hero | 85x AWS Badges | AWS UG China Leader | 145K+ followers",
+    "linkedin": "shaoyi-li-cloud",
+    "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
+    "avatar": "/avatars/shaoyi-li.png"
+  },
+  {
+    "name": "Jasbir Singh",
+    "github": "jasbir84",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "date": "2025-05-21",
+    "bio": "Staff Consulting Architect @ Rackspace Technology | 12x AWS Certified (AWStronaut) | 14x GCP Certified| 13x Azure Certified| Redefining Cloud Possibilities, Leading With Google Cloud",
+    "linkedin": "jasbir84",
+    "website": "https://www.linkedin.com/in/jasbir84/",
+    "avatar": "/avatars/Jasbir.jpg"
+  },
+  {
+    "name": "Oguzhan Hiziroglu",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Istanbul",
+    "country": "Turkey",
+    "date": "2023-09-08",
+    "linkedin": "oguzhanselcukhiziroglu",
+    "avatar": "/avatars/oguzhanselcukhiziroglu.png",
+    "bio": "AWS Ambassador | Turkey's #1 AWS Golden Jacket (15 X AWS) | AWS AAI Community Difference Maker | Champion AWS Authorized Instructor (AAI) | AWS Community Builder"
+  },
+  {
+    "name": "Colin Barker",
+    "github": "mystcb",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Billingshurst",
+    "country": "United Kingdom",
+    "date": "2025-01-25",
+    "bio": "Head of AWS | AWS Lead Certification SME | AWS Ambassador | AWS Community Builder | Chair of Tokonatsu",
+    "linkedin": "colinbarker",
+    "website": "https://colinbarker.me.uk",
+    "avatar": "/avatars/colinbarker.jpg"
+  },
+  {
+    "name": "Nizar Ajroud",
+    "github": "nizarajroud",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Montreal",
+    "country": "Canada",
+    "date": "2025-05-16",
+    "linkedin": "nizarajroud",
+    "avatar": "/avatars/nizarajroud.jpg",
+    "bio": "12x AWS Certified :: Follow me on LinkedIn to know more 😄"
+  },
+  {
+    "name": "Jenn Bergstrom",
+    "github": "jennbergs",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Denver",
+    "country": "USA",
+    "date": "2025-05-22",
+    "bio": "VP, Cloud and Data Solutions @ Parsons | AWS Ambassador | AWS Community Builder | AWStronaut (12x AWS) | 3x Azure | 3x GCP | 3X OCI | PMP | Chaos Engineer | Purple Unicorn",
+    "linkedin": "jenn-bergstrom",
+    "avatar": "/avatars/jenn-bergstrom.jpg"
+  },
+  {
+    "name": "Marko Sluga",
+    "github": "markosluga",
+    "certs": ["awstronaut"],
+    "city": "Toronto",
+    "country": "Canada",
+    "date": "2025-01-16",
+    "bio": "Learn cloud ☁️ and make it rain! 🤑",
+    "linkedin": "markosluga",
+    "website": "https://markocloud.com",
+    "avatar": "/avatars/marko-orange2.png"
+  },
+  {
+    "name": "José E. Vera",
+    "github": "jose-emilio",
+    "certs": ["awstronaut"],
+    "city": "Madrid",
+    "country": "Spain",
+    "date": "2025-04-16",
+    "bio": "Champion AWS Authorized Instructor | AWS Community Builder",
+    "linkedin": "joseemiliovera",
+    "avatar": "/avatars/JoseEmilioVera.png"
+  },
+  {
+    "name": "Nishith Shah",
+    "github": "nishithshah1990-hash",
+    "certs": ["awstronaut"],
+    "city": "New York",
+    "country": "USA",
+    "date": "2025-01-13",
+    "bio": "DevOps/Delivery Lead Manager @ Accenture, ISC2 | 14x AWS | 2x Azure | 2x ServiceNow | 2x Salesforce AI | Databricks GenAI Certified | GCP Certified | Terraform Certified | 6x Databricks Accredited",
+    "linkedin": "nishithshah90",
+    "website": "",
+    "avatar": "/avatars/Nishith.jpg"
+  },
+  {
+    "name": "John Hite",
+    "github": "john916",
+    "certs": ["awstronaut"],
+    "city": "Folsom",
+    "country": "USA",
+    "date": "2025-05-09",
+    "bio": "AWS Golden Jacket",
+    "twitter": "",
+    "linkedin": "john-hite-mscsia-cissp-pmp-ceh-enp-026239208/",
+    "website": "",
+    "avatar": "/avatars/JohnHite.jpg"
+  },
+  {
+    "name": "Jaswinder Singh Bhui",
+    "github": "jaswinderbhui",
+    "certs": ["awstronaut"],
+    "city": "Dallas",
+    "country": "USA",
+    "date": "2025-05-02",
+    "bio": "Senior Delivery Executive | Digital Transformation & Cloud Migration Specialist | Technology Sales Leader | AI, ML & Gen AI Innovator | Multi-Certified Professional",
+    "twitter": "",
+    "linkedin": "jaswinderbhui",
+    "website": "",
+    "avatar": "/avatars/JaswinderPic2025.jpg"
+  },
+  {
+    "name": "Jin Ming Cheong",
+    "github": "jmcheong85",
+    "certs": ["awstronaut"],
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "date": "2025-02-11",
+    "bio": "AWS Golden Jacket",
+    "twitter": "",
+    "linkedin": "cheong-jin-ming/",
+    "website": "",
+    "avatar": "/avatars/jin.jpg"
   },
   {
     "name": "Ravi Nandru",
@@ -159,5 +518,4 @@
     "linkedin": "ravinandru",
     "avatar": "/avatars/Ravi.jpg"
   }
-    
 ]
