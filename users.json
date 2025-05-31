@@ -530,5 +530,17 @@
     "linkedin": "ernestolarios",
     "website": "",
     "avatar": "/avatars/ernesto.larios.usa.jpg"
+  },
+  {
+    "name": "Pragesh Trivedi",
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "date": "2025-05-17",
+    "linkedin": "prageshtrivedi",
+    "avatar": "/avatars/tpragesh.png"
   }
 ]
