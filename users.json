@@ -528,4 +528,29 @@
     "linkedin": "mohamed-benali-ba70426a",
     "avatar": "/avatars/MohamedBenali.jpg"
   },
+  {
+    "name": "Ernesto Larios",
+    "github": "ernestol0817",
+    "certs": ["awstronaut"],
+    "city": "Denver",
+    "country": "USA",
+    "date": "2025-01-22",
+    "bio": "AI Ambassador & Principal Architect - Bridging Builders and Boardrooms",
+    "twitter": "",
+    "linkedin": "ernestolarios",
+    "website": "",
+    "avatar": "/avatars/ernesto.larios.usa.jpg"
+  },
+  {
+    "name": "Pragesh Trivedi",
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "date": "2025-05-17",
+    "linkedin": "prageshtrivedi",
+    "avatar": "/avatars/tpragesh.png"
+  }
 ]
