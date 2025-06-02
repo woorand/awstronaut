@@ -519,6 +519,16 @@
     "avatar": "/avatars/Ravi.jpg"
   },
   {
+    "name": "Mohamed BENALI",
+    "certs": ["awstronaut"],
+    "city": "Antibes",
+    "country": "France",
+    "bio": "Cloud & Devops Engineer | AWS Solution Architect (AWS Golden Jacket)",
+    "date": "2025-04-29",
+    "linkedin": "mohamed-benali-ba70426a",
+    "avatar": "/avatars/MohamedBenali.jpg"
+  },
+  {
     "name": "Ernesto Larios",
     "github": "ernestol0817",
     "certs": ["awstronaut"],
