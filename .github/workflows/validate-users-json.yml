@@ -4,6 +4,8 @@ on:
   pull_request:
     paths:
       - 'users.json'
+      - '.github/scripts/validate-users-json.js'
+      - '.github/scripts/users-schema.json'
 
 jobs:
   validate-json:
@@ -19,7 +21,7 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        run: npm install ajv
+        run: npm install ajv ajv-formats
 
       - name: Run validation script
         run: node .github/scripts/validate-users-json.js
