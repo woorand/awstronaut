@@ -565,5 +565,18 @@
     "date": "2024-06-17",
     "linkedin": "yu-lin-huang-b2096a87",
     "avatar": "/avatars/kimihuang.png"
+  },
+  {
+    "name": "Adeyemi Alatishe",
+    "github": "archyemi",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Peterborough",
+    "country": "United Kingdom",
+    "date": "2024-10-28",
+    "bio": "Senior Manager, Technology Services @ Wipro | AWStronaut (12x AWS) | 2x Azure | 3x GCP | Quantic CTO",
+    "linkedin": "adeyemi-alatishe",
+    "avatar": "/avatars/adeyemi-alatishe.jpg"
   }
 ]
