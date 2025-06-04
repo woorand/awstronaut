@@ -588,5 +588,18 @@
     "date": "2025-06-02",
     "linkedin": "mai-nishitani",
     "avatar": "/avatars/mainishitani.png"
+  },
+  {
+    "name": "Harry Mylonas",
+    "github": "hmylonas",
+    "certs": [ "awstronaut" ],
+    "city": "Athens",
+    "country": "Greece",
+    "date": "2025-01-13",
+    "bio": "AWS SME | Cloud & Big Data Strategist | Driving TCO Optimisation & Mission-Critical Innovation | Architect of the AVSI - IARMF Framework",
+    "twitter": "h_mylonas",
+    "linkedin": "hmylonas",
+    "website": "https://www.linkedin.com/newsletters/7291574782074970114/",
+    "avatar": "/avatars/harry_mylonas.png"
   }
 ]
