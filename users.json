@@ -479,7 +479,7 @@
     "date": "2025-05-09",
     "bio": "AWS Golden Jacket",
     "twitter": "",
-    "linkedin": "john-hite-mscsia-cissp-pmp-ceh-enp-026239208/",
+    "linkedin": "john-hite-mscsia-cissp-pmp-ceh-enp-026239208",
     "website": "",
     "avatar": "/avatars/JohnHite.jpg"
   },
@@ -505,7 +505,7 @@
     "date": "2025-02-11",
     "bio": "AWS Golden Jacket",
     "twitter": "",
-    "linkedin": "cheong-jin-ming/",
+    "linkedin": "cheong-jin-ming",
     "website": "",
     "avatar": "/avatars/jin.jpg"
   },
@@ -578,5 +578,15 @@
     "bio": "Senior Manager, Technology Services @ Wipro | AWStronaut (12x AWS) | AWS SME | 2x Azure | 3x GCP | Quantic CTO",
     "linkedin": "adeyemi-alatishe",
     "avatar": "/avatars/adeyemi-alatishe.jpg"
+  },
+  {
+    "name": "Mai Nishitani",
+    "github": "electrokat",
+    "certs": ["awstronaut"],
+    "city": "Brisbane",
+    "country": "Australia",
+    "date": "2025-06-02",
+    "linkedin": "mai-nishitani",
+    "avatar": "/avatars/mainishitani.png"
   }
 ]
