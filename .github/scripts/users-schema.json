@@ -29,8 +29,7 @@
         }
       },
       "provider": {
-        "type": "string",
-        "minLength": 1
+        "type": "string"
       },
       "city": {
         "type": "string",
@@ -44,3 +43,25 @@
         "type": "string",
         "format": "date"
       },
+      "bio": {
+        "type": "string",
+        "maxLength": 500
+      },
+      "twitter": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9_]{1,15}$"
+      },
+      "linkedin": {
+        "type": "string",
+        "pattern": "^[a-zA-Z0-9_-]{3,100}$"
+      },
+      "website": {
+        "type": "string"
+      },
+      "avatar": {
+        "type": "string",
+        "pattern": "^/avatars/[a-zA-Z0-9_-]+\\.(png|jpg|jpeg)$"
+      }
+    }
+  }
+}
