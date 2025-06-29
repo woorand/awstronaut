@@ -597,5 +597,17 @@
     "linkedin": "hmylonas",
     "website": "https://www.linkedin.com/newsletters/7291574782074970114/",
     "avatar": "/avatars/harry_mylonas.png"
+  },
+  {
+    "name": "Yevhen Skyba",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "date": "2025-06-27",
+    "linkedin": "yevhen-skyba",
+    "avatar": "/avatars/yevhenskyba.jpg"
   }
 ]
