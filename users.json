@@ -598,7 +598,7 @@
     "website": "https://www.linkedin.com/newsletters/7291574782074970114/",
     "avatar": "/avatars/harry_mylonas.png"
   },
-{
+  {
     "name": "Ankit Haseeja",
     "github": "Ankit-Haseeja",
     "certs": ["awstronaut"],
@@ -607,5 +607,17 @@
     "date": "2024-06-14",
     "bio": "Cloud Engineer at AWS",
     "linkedin": "ankithaseeja"
+  },
+  {
+    "name": "Yevhen Skyba",
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "date": "2025-06-27",
+    "linkedin": "yevhen-skyba",
+    "avatar": "/avatars/yevhenskyba.jpg"
   }
 ]
