@@ -599,6 +599,16 @@
     "avatar": "/avatars/harry_mylonas.png"
   },
   {
+    "name": "Ankit Haseeja",
+    "github": "Ankit-Haseeja",
+    "certs": ["awstronaut"],
+    "city": "Bareilly",
+    "country": "India",
+    "date": "2024-06-14",
+    "bio": "Cloud Engineer at AWS",
+    "linkedin": "ankithaseeja"
+  },
+  {
     "name": "Yevhen Skyba",
     "certs": [
       "kubestrong",
