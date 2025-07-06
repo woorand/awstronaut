@@ -628,5 +628,16 @@
     "date": "2025-06-27",
     "linkedin": "maxim-filipovich-61771223",
     "avatar": "/avatars/maximfilip.png"
+  },
+  {
+    "name": “Zwivhuya Lucky Khoza”,
+    "certs": [
+      "awstronaut"
+    ],
+    "city": “Pretoria”,
+    "country": “South Africa”,
+    "date": "2025-06-04”,
+    "linkedin": "zwivhuya-khoza-733982101",
+    "avatar": "/avatars/zwivhuya.jpeg"
   }
 ]
