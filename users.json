@@ -639,5 +639,16 @@
   "date": "2025-06-04",
   "linkedin": "zwivhuya-khoza-733982101",
   "avatar": "/avatars/zwivhuya.jpeg"
-}
+ },
+  {
+    "name": "Sai Vivek Potnuru",
+    "github": "saivivekpotnuru",
+    "certs": ["awstronaut"],
+    "city": "Hyderabad",
+    "country": "India",
+    "date": "2025-06-19",
+    "bio": "Operations Engineer at AWS",
+    "avatar": "/avatars/SaivivekPotnuru.png",
+    "linkedin": "saivivekpotnuru"
+  }
 ]
