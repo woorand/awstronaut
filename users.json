@@ -650,5 +650,15 @@
     "bio": "Operations Engineer at AWS",
     "avatar": "/avatars/SaivivekPotnuru.png",
     "linkedin": "saivivekpotnuru"
+  },
+  {
+    "name": "Mankwong Chi",
+    "github": "mankwongchi",
+    "certs": ["awstronaut"],
+    "city": "Tokyo",
+    "country": "Japan",
+    "date": "2025-07-08",
+    "avatar": "/avatars/mankwongchi.jpg",
+    "linkedin": "mankwongchi"
   }
 ]
