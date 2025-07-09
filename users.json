@@ -661,5 +661,15 @@
     "bio": "Solution Architect at Lauren",
     "avatar": "/avatars/AditModi.jpg",
     "linkedin": "adit-n-modi"
+  },
+  {
+    "name": "Mankwong Chi",
+    "github": "mankwongchi",
+    "certs": ["awstronaut"],
+    "city": "Tokyo",
+    "country": "Japan",
+    "date": "2025-07-08",
+    "avatar": "/avatars/mankwongchi.jpg",
+    "linkedin": "mankwongchi"
   }
 ]
