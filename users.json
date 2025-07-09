@@ -650,5 +650,16 @@
     "bio": "Operations Engineer at AWS",
     "avatar": "/avatars/SaivivekPotnuru.png",
     "linkedin": "saivivekpotnuru"
+  },
+  {
+    "name": "Adit Modi",
+    "github": "AditModi",
+    "certs": ["awstronaut"],
+    "city": "Bengaluru",
+    "country": "India",
+    "date": "2025-01-13",
+    "bio": "Solution Architect at Lauren",
+    "avatar": "/avatars/AditModi.jpg",
+    "linkedin": "adit-n-modi"
   }
 ]
