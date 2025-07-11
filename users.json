@@ -671,5 +671,17 @@
     "date": "2025-07-08",
     "avatar": "/avatars/mankwongchi.jpg",
     "linkedin": "mankwongchi"
+  },
+  {
+    "name": "Will Laws",
+    "github": "jeeshofone",
+    "certs": ["awstronaut"],
+    "city": "Sydney",
+    "country": "Australia",
+    "date": "2025-04-01",
+    "bio": "Senior Solutions Architect @AWS | 12 AWS Certs in 12 weeks | re:Invent Speaker | Startup Co-founder",
+    "linkedin": "lwsw",
+    "website": "https://www.123cloud.st",
+    "avatar": "/avatars/willlaws.png"
   }
 ]
