@@ -671,5 +671,16 @@
     "date": "2025-07-08",
     "avatar": "/avatars/mankwongchi.jpg",
     "linkedin": "mankwongchi"
+  },
+  {
+    "name": "Luis Miguel Bastante Quijano",
+    "github": "lumibasqui",
+    "certs": ["awstronaut"],
+    "city": "Albacete",
+    "country": "Spain",
+    "date": "2025-06-30",
+    "bio": "AWS Cloud CoE Architect & CCA Lead at Capgemini",
+    "linkedin": "luis-miguel-bastante-quijano",
+    "avatar": "/avatars/LuismiBastante.png"
   }
 ]
