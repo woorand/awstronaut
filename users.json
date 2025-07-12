@@ -682,5 +682,17 @@
     "bio": "AWS Cloud CoE Architect & CCA Lead at Capgemini",
     "linkedin": "luis-miguel-bastante-quijano",
     "avatar": "/avatars/LuismiBastante.png"
+  },
+  {
+    "name": "Will Laws",
+    "github": "jeeshofone",
+    "certs": ["awstronaut"],
+    "city": "Sydney",
+    "country": "Australia",
+    "date": "2025-04-01",
+    "bio": "Senior Solutions Architect @AWS | 12 AWS Certs in 12 weeks | re:Invent Speaker | Startup Co-founder",
+    "linkedin": "lwsw",
+    "website": "https://www.123cloud.st",
+    "avatar": "/avatars/willlaws.png"
   }
 ]
