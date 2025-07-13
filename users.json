@@ -705,5 +705,16 @@
     "bio": "Infra Architect @ WKCDA | AWS Community Builder (Containers) | 13X AWS | 10X Azure | 8X GCP | 2X Splunk | CKA | Terraform",
     "linkedin": "angelo-m-6b4a1951",
     "avatar": "/avatars/angelomao.png"
+  },
+  {
+    "name": "Sviatoslav Hryb",
+    "github": "hrybs",
+    "certs": ["awstronaut"],
+    "city": "New York",
+    "country": "USA",
+    "date": "2024-11-03",
+    "bio": "Software Engineer | Secure Development World Cup 2024 Winner | AWS Golden Jacket | 12X AWS Certified | 3X Oracle Java PRO Certified | VMware Spring PRO Certified",
+    "linkedin": "svhryb",
+    "avatar": "/avatars/sviatoslav_hryb.jpg"
   }
 ]
