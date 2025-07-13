@@ -694,5 +694,16 @@
     "linkedin": "lwsw",
     "website": "https://www.123cloud.st",
     "avatar": "/avatars/willlaws.png"
+  },
+  {
+    "name": "Angelo Mao",
+    "github": "angelomao",
+    "certs": ["awstronaut"],
+    "city": "Hong Kong Island",
+    "country": "Hong Kong SAR",
+    "date": "2025-07-13",
+    "bio": "Infra Architect @ WKCDA | AWS Community Builder (Containers) | 13X AWS | 10X Azure | 8X GCP | 2X Splunk | CKA | Terraform",
+    "linkedin": "angelo-m-6b4a1951",
+    "avatar": "/avatars/angelomao.jpg"
   }
 ]
