@@ -727,5 +727,16 @@
     "linkedin": "serhii-kaidalov",
     "website": "https://kaidalov.com",
     "avatar": "/avatars/SerhiiKaidalov.jpg"
+},
+  {
+    "name": "Randy Woo",
+    "github": "woorand",
+    "certs": ["awstronaut"],
+    "city": "Austin",
+    "country": "USA",
+    "date": "2025-06-27",
+    "bio": "Solutions Architect Leader | AWS Golden Jacket | 13X AWS Certified ",
+    "linkedin": "randy-woo",
+    "avatar": "/avatars/RandyWoo.png"
   }
 ]
