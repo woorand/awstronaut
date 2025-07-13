@@ -716,5 +716,16 @@
     "bio": "Software Engineer | Secure Development World Cup 2024 Winner | AWS Golden Jacket | 12X AWS Certified | 3X Oracle Java PRO Certified | VMware Spring PRO Certified",
     "linkedin": "svhryb",
     "avatar": "/avatars/sviatoslav_hryb.jpg"
+  },
+  {
+    "name": "Serhii Kaidalov",
+    "github": "wiseelf",
+    "certs": ["awstronaut"],
+    "city": "Kamianets-Podilskyi",
+    "country": "Ukraine",
+    "date": "2025-07-13",
+    "linkedin": "serhii-kaidalov",
+    "website": "https://kaidalov.com",
+    "avatar": "/avatars/SerhiiKaidalov.jpg"
   }
 ]
